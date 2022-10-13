@@ -56,7 +56,7 @@ export default function SampleEntryComponent(){
 
                 <h1 className="text-center font-bold text-2xl">Projects</h1>
 
-                <div className="grid grid-cols-1 justify-center gap-6 mt-8 lg:grid-cols-2">
+                <div className="grid grid-cols-1 justify-center gap-6 mt-8 lg:grid-cols-2 xl:grid-cols-3">
 
                     {/* Project 1 */}
                     <Grid sm={12} md={5} className="flex justify-center">
