@@ -43,8 +43,8 @@ export default function SampleEntryComponent(){
                         <h1 id="typeTxt" className="font-txt text-xl font-extrabold text-center"></h1>
                     </div>
                     <p className="text-center font-txt mt-3 max-w-[600px]">
-                        I'm a Full Stack Web3 Developer currently at second year of graduation. I'm working at Doge Capital as a developer.
-                        I have been a frontend developer for an year and for the past 6 months, I'm into web3.
+                        I&apos;m a Full Stack Web3 Developer currently at second year of graduation. I&apos;m working at Doge Capital as a developer.
+                        I have been a frontend developer for an year and for the past 6 months, I&apos;m into web3.
                         <br/><br/>
                         Tech Stacks : JavaScript,TypeScript, Solidity, Rust, NextJS, Firebase, Anchor, Hardhat
                     </p>
