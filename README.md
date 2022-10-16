@@ -10,9 +10,9 @@
 - Type in the next set of commands. You can copy paste them for your convenience.
 - # commands
 - 1. git clone https://github.com/Shiyasmohd/hacktober-portfolio
-- 2. cd hacktober-portfolio
-- 2. npm install
-- 3. npm run dev
+- 2. cd hacktober-portfolio ''' ![cd](https://user-images.githubusercontent.com/71582782/196046212-46f49cc1-10c8-49fe-9e7e-0841f9f7458b.png) '''
+- 2. npm install '''![npm install](https://user-images.githubusercontent.com/71582782/196046237-78fe7b39-870e-44da-bf10-737304a2b1e2.PNG) '''
+- 3. npm run dev ''' ![npm run dev](https://user-images.githubusercontent.com/71582782/196046294-e77202a9-638a-4027-ac7c-a05b83a3e0e8.png) '''
 - 4. After the above command your portfolio will be loaded in the browser. Type [https://localhost:3000](https://localhost:3000) in your browser.
 - 5. Voila!! You can see your portfolio.
 
