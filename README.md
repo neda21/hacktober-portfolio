@@ -24,4 +24,6 @@
 - Back to VsCode. Click the folder in your name and select the script EntryComponent.js.
 - Now edit the line of code " import ProfileImg from '../../public/put the name of your image here.jpg' ".
 - Once this part is done reload [https://localhost:3000](https://localhost:3000) . You'll notice that the photo on the top right side is yours..
-- 
+- Now select the pages folder and select the SampleEntryComponent and rename the file to your name.
+- Edit this line " import SampleEntryComponent from "../components/your name(Name of the file in components folder)/EntryComponent"; "
+- And you're all done.
