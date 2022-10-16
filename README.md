@@ -1,14 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## HACTOBER FIESTA 2022 PORTFOLIO SETUP
 
-## Getting Started
+# INITIAL SETUP
+- 1. Have a photo of yours ready in 1:1 ratio. To make it in 1:1 ratio edit the photo and select the crop icon. From there select the square icon, this ensures your photo is in 1:1 ratio.
+- 2. Install VsCode(https://code.visualstudio.com/download),NodeJs(https://nodejs.org/en/download/),Git(https://git-scm.com/downloads) and have an account in Github(https://github.com/)
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
