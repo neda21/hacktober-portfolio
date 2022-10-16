@@ -13,7 +13,7 @@
 - 2. cd hacktober-portfolio
 - 2. npm install
 - 3. npm run dev
-- 4. After the above command your portfolio will be loaded in the browser. Type [https://localhost:3000] in your browser.
+- 4. After the above command your portfolio will be loaded in the browser. Type [https://localhost:3000](https://localhost:3000) in your browser.
 - 5. Voila!! You can see your portfolio.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
