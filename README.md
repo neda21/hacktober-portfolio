@@ -4,8 +4,17 @@
 - 1. Have a photo of yours ready in 1:1 ratio. To make it in 1:1 ratio edit the photo and select the crop icon. From there select the square icon, this ensures your photo is in 1:1 ratio.
 - 2. Install [VsCode](https://code.visualstudio.com/download),[NodeJs](https://nodejs.org/en/download/),[Git](https://git-scm.com/downloads) and have an account in [Github](https://github.com/)
 
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# CLONING 
+- Create a folder wherever you wish.
+- Open VsCode and open a new terminal and open the folder you have created .
+- Type in the next set of commands. You can copy paste them for your convenience.
+- # commands
+- 1. git clone https://github.com/Shiyasmohd/hacktober-portfolio
+- 2. cd hacktober-portfolio
+- 2. npm install
+- 3. npm run dev
+- 4. After the above command your portfolio will be loaded in the browser. Type [https://localhost:3000] in your browser.
+- 5. Voila!! You can see your portfolio.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
